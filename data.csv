@@ -1,0 +1,506 @@
+id,name,location,spend,cac,length
+1,Oracle,USA,2850000,20000,18
+2,Apple,UK,6700000,1000000,54
+3,Cisco,Australia,5000000,17000,65
+4,Amazon,France,128000,8000,7
+5,Microsoft,Spain,372000,17000,25
+6,Google,Sweeden,285000,43000,48
+7,Meta,Switzerland,76000,80000,36
+8,Enphase,New Zealand,25000,4000,12
+9,Nividia,Portugal,2000,3000,4
+10,3M,Australia,450752,53625,90
+11,A. O. Smith,Germany,234706,51672,93
+12,Abbott Laboratories,Wales,873228,39722,120
+13,AbbVie,Ireland,489079,11723,102
+14,Abiomed,Norway,226146,69200,114
+15,Accenture,Netherlands,438447,65899,116
+16,Activision Blizzard,Monaco,568578,92728,78
+17,ADM,Andora,467708,74673,0
+18,Adobe,Brazil,491818,6651,63
+19,Advance Auto Parts,Argentina,220823,88058,96
+20,Advanced Micro Devices,Singapore,854998,9745,53
+21,AES Corp,Hong Kong,100064,40279,103
+22,Aflac,USA,6664,61344,34
+23,Agilent Technologies,UK,189438,15274,66
+24,Air Products & Chemicals,Australia,19726,19056,116
+25,Akamai Technologies,France,175586,69498,102
+26,Alaska Air Group,Spain,401307,25467,87
+27,Albemarle Corporation,Sweeden,219261,24641,115
+28,Alexandria Real Estate Equities,Switzerland,758460,76405,30
+29,Align Technology,New Zealand,188159,9009,117
+30,Allegion,Portugal,285273,20721,98
+31,Alliant Energy,Greece,440180,53662,120
+32,Allstate Corp,Germany,123148,92808,13
+33,Altria Group,Wales,997897,99082,29
+34,Amcor,Ireland,517719,45406,7
+35,Ameren Corp,Norway,867010,97388,84
+36,American Airlines Group,Netherlands,638084,28653,10
+37,American Electric Power,Monaco,515310,35511,101
+38,American Express,Andora,369198,4872,23
+39,American International Group,Brazil,942563,64235,42
+40,American Tower,Argentina,781797,89522,102
+41,American Water Works,Singapore,44317,95241,73
+42,Ameriprise Financial,Hong Kong,631282,61382,41
+43,AmerisourceBergen,USA,797554,71682,110
+44,Ametek,UK,39604,75043,54
+45,Amgen,Australia,615703,49534,37
+46,Amphenol,France,407358,37479,6
+47,Analog Devices,Spain,899139,33435,112
+48,Ansys,Sweeden,438204,41714,83
+49,Anthem,Switzerland,491470,85785,80
+50,Aon,New Zealand,196096,66778,34
+51,APA Corporation,Portugal,753014,65100,102
+52,Applied Materials,Greece,329250,68548,80
+53,Aptiv,Germany,539340,30744,54
+54,Arista Networks,Wales,67990,3031,13
+55,Arthur J. Gallagher & Co.,Ireland,975407,20496,28
+56,Assurant,Norway,662357,21544,84
+57,AT&T,Netherlands,30436,11422,44
+58,Atmos Energy,Monaco,961649,71544,46
+59,Autodesk,Andora,836061,50013,27
+60,Automatic Data Processing,Brazil,602069,75574,88
+61,AutoZone,Argentina,514962,18231,89
+62,AvalonBay Communities,Singapore,926579,90629,107
+63,Avery Dennison,Hong Kong,60772,14848,37
+64,Baker Hughes,USA,688475,90228,15
+65,Ball Corp,UK,14813,16492,116
+66,Bank of America,Australia,722928,96986,36
+67,Bath & Body Works Inc.,France,498957,10499,96
+68,Baxter International,Spain,762341,20518,94
+69,Becton Dickinson,Sweeden,767066,41983,7
+70,Berkshire Hathaway,Switzerland,883632,52481,17
+71,Best Buy,New Zealand,345970,21742,14
+72,Biogen,Portugal,66803,12036,0
+73,Bio-Rad Laboratories,Greece,474454,56265,97
+74,Bio-Techne,Germany,970800,65498,80
+75,BlackRock,Wales,883383,30568,110
+76,BNY Mellon,Ireland,890990,36940,32
+77,Boeing,Norway,219714,89171,49
+78,Booking Holdings,Netherlands,582619,62319,90
+79,BorgWarner,Monaco,791444,21409,76
+80,Boston Properties,Andora,340123,69015,113
+81,Boston Scientific,Brazil,753502,98517,35
+82,Bristol Myers Squibb,Argentina,261358,36556,46
+83,Broadcom,Singapore,889079,34257,27
+84,Broadridge Financial Solutions,Hong Kong,31614,76338,80
+85,Brown & Brown,USA,984318,2931,100
+86,BrownñForman,UK,739550,62606,41
+87,C. H. Robinson,Australia,742962,5068,106
+88,Cadence Design Systems,France,744316,74551,112
+89,Caesars Entertainment,Spain,601333,97490,119
+90,Camden Property Trust,Sweeden,295190,34374,98
+91,Campbell Soup,Switzerland,231243,70621,105
+92,Capital One Financial,New Zealand,128531,7288,108
+93,Cardinal Health,Portugal,329718,99120,47
+94,CarMax,Greece,456878,91132,13
+95,Carnival Corporation,Germany,326034,74468,39
+96,Carrier Global,Wales,49471,46054,0
+97,Catalent,Ireland,311692,44302,36
+98,Caterpillar,Norway,223368,68582,23
+99,Cboe Global Markets,Netherlands,175774,13399,33
+100,CBRE,Monaco,552018,92858,14
+101,CDW,Andora,764625,23335,15
+102,Celanese,Brazil,357416,94294,54
+103,Centene Corporation,Argentina,199541,18574,95
+104,CenterPoint Energy,Singapore,262741,74471,89
+105,Ceridian,Hong Kong,198189,5254,26
+106,Cerner,USA,628854,1492,111
+107,CF Industries,UK,533430,87324,86
+108,Charles River Laboratories,Australia,658758,22711,44
+109,Charles Schwab Corporation,France,785842,73746,118
+110,Charter Communications,Spain,875304,5560,103
+111,Chevron Corporation,Sweeden,224707,71211,58
+112,Chipotle Mexican Grill,Switzerland,189724,52371,5
+113,Chubb,New Zealand,230428,48016,10
+114,Church & Dwight,Portugal,597635,61430,10
+115,Cigna,Greece,911305,57851,114
+116,Cincinnati Financial,Germany,37561,65612,11
+117,Cintas Corporation,Wales,583391,47307,106
+118,Citigroup,Ireland,763882,43717,120
+119,Citizens Financial Group,Norway,338385,99479,62
+120,Citrix Systems,Netherlands,131163,35683,40
+121,Clorox,Monaco,953989,89050,52
+122,CME Group,Andora,779681,86486,8
+123,CMS Energy,Brazil,956596,24453,37
+124,Coca-Cola Company,Argentina,559534,23268,83
+125,Cognizant Technology Solutions,Singapore,6138,20699,33
+126,Colgate-Palmolive,Hong Kong,386617,13033,77
+127,Comcast,USA,188906,46366,99
+128,Comerica,UK,999242,22266,114
+129,Conagra Brands,Australia,171581,22329,96
+130,ConocoPhillips,France,595555,6522,11
+131,Consolidated Edison,Spain,324352,71023,57
+132,Constellation Brands,Sweeden,598085,42070,79
+133,Constellation Energy Corporation,Switzerland,936923,24394,60
+134,Copart,New Zealand,177227,44810,11
+135,Corning,Portugal,105918,80812,30
+136,Corteva,Greece,714015,89305,32
+137,Costco,Germany,540748,16872,68
+138,Coterra,Wales,8551,26082,64
+139,Crown Castle,Ireland,184131,15648,34
+140,CSX,Norway,206879,23221,99
+141,Cummins,Netherlands,567073,14553,85
+142,CVS Health,Monaco,539362,76265,111
+143,D. R. Horton,Andora,172537,65796,45
+144,Danaher Corporation,Brazil,761776,15871,84
+145,Darden Restaurants,Argentina,436450,85820,64
+146,DaVita,Singapore,674471,22144,64
+147,Deere & Co.,Hong Kong,193853,59048,97
+148,Delta Air Lines,USA,704853,51034,49
+149,Dentsply Sirona,UK,893165,80571,71
+150,Devon Energy,Australia,821737,71435,86
+151,DexCom,France,162381,93515,34
+152,Diamondback Energy,Spain,476163,66209,88
+153,Digital Realty Trust,Sweeden,734835,83339,104
+154,Discover Financial Services,Switzerland,111466,1815,31
+155,Dish Network,New Zealand,417413,49752,8
+156,Dollar General,Portugal,301465,88708,59
+157,Dollar Tree,Greece,97014,12334,102
+158,Dominion Energy,Germany,140380,54685,43
+159,Domino's Pizza,Wales,265689,49706,50
+160,Dover Corporation,Ireland,406923,65382,50
+161,Dow,Norway,8234,21118,36
+162,DTE Energy,Netherlands,799507,2128,69
+163,Duke Energy,Monaco,455668,54388,114
+164,Duke Realty Corp,Andora,721969,88489,39
+165,DuPont,Brazil,64156,25562,46
+166,DXC Technology,Argentina,713100,70806,15
+167,Eastman Chemical,Singapore,335772,9226,43
+168,Eaton Corporation,Hong Kong,758868,44925,97
+169,eBay,USA,958216,96820,114
+170,Ecolab,UK,218009,23121,44
+171,Edison International,Australia,17758,52901,59
+172,Edwards Lifesciences,France,718130,88789,8
+173,Electronic Arts,Spain,505429,59430,62
+174,Eli Lilly & Co,Sweeden,699215,4494,68
+175,Embecta Corporation,Switzerland,835523,80565,7
+176,Emerson Electric Company,New Zealand,311155,52966,88
+177,Entergy,Portugal,732816,26340,44
+178,EOG Resources,Greece,605481,75478,31
+179,EPAM Systems Inc.,Germany,980735,46612,94
+180,Equifax,Wales,513676,84608,56
+181,Equinix,Ireland,866106,90393,119
+182,Equity Residential,Norway,301192,66700,62
+183,Essex Property Trust,Netherlands,658481,67003,65
+184,EstÈe Lauder Companies,Monaco,54231,56654,22
+185,Etsy,Andora,204885,56806,16
+186,Everest Re,Brazil,458005,91874,12
+187,Evergy,Argentina,521710,15989,96
+188,Eversource Energy,Singapore,523606,26660,53
+189,Exelon,Hong Kong,794615,27434,116
+190,Expedia Group,USA,285376,91425,95
+191,Expeditors,UK,629891,50156,44
+192,Extra Space Storage,Australia,943168,5449,94
+193,ExxonMobil,France,150154,8121,98
+194,F5 Networks,Spain,923420,25482,94
+195,FactSet Research Systems Inc.,Sweeden,568399,70144,41
+196,Fastenal,Switzerland,858444,555,19
+197,Federal Realty Investment Trust,New Zealand,154518,84271,76
+198,FedEx,Portugal,477921,76351,118
+199,Fidelity National Information Services,Greece,399445,64872,83
+200,Fifth Third Bancorp,Germany,523714,19780,50
+201,First Republic Bank,Wales,330580,51313,58
+202,FirstEnergy,Ireland,671764,28884,97
+203,Fiserv,Norway,773794,41866,81
+204,Fleetcor,Netherlands,626855,80578,13
+205,FMC Corporation,Monaco,290610,93039,72
+206,Ford,Andora,666168,4422,11
+207,Fortinet,Brazil,22621,48997,66
+208,Fortive,Argentina,100457,52522,0
+209,Fortune Brands Home & Security,Singapore,789410,70329,31
+210,Fox Corporation (Class A),Hong Kong,999254,50896,2
+211,Fox Corporation (Class B),USA,854149,36936,96
+212,Franklin Resources,UK,85852,66405,69
+213,Freeport-McMoRan,Australia,731261,30843,10
+214,Garmin,France,70921,32816,104
+215,Gartner,Spain,940805,61482,32
+216,Generac Holdings,Sweeden,148409,47288,11
+217,General Dynamics,Switzerland,297182,44693,68
+218,General Electric,New Zealand,453414,23365,85
+219,General Mills,Portugal,333779,93067,37
+220,General Motors,Greece,970009,37585,65
+221,Genuine Parts,Germany,331543,98581,77
+222,Gilead Sciences,Wales,123127,73592,21
+223,Global Payments,Ireland,552505,31754,91
+224,Globe Life,Norway,638781,29715,113
+225,Goldman Sachs,Netherlands,908067,37880,54
+226,Halliburton,Monaco,310072,14273,30
+227,Hasbro,Andora,437931,71916,52
+228,HCA Healthcare,Brazil,681417,92341,48
+229,Healthpeak Properties,Argentina,182005,79473,6
+230,Henry Schein,Singapore,473552,95456,74
+231,Hess Corporation,Hong Kong,559370,36831,5
+232,Hewlett Packard Enterprise,USA,980500,62775,80
+233,Hilton Worldwide,UK,737339,99113,78
+234,Hologic,Australia,600470,1867,42
+235,Home Depot,France,716219,36554,72
+236,Honeywell,Spain,767896,12624,26
+237,Hormel,Sweeden,5296,44274,33
+238,Host Hotels & Resorts,Switzerland,544569,27691,3
+239,Howmet Aerospace,New Zealand,336840,85152,66
+240,HP,Portugal,121143,4775,94
+241,Humana,Greece,904652,25256,20
+242,Huntington Bancshares,Germany,476596,41325,20
+243,Huntington Ingalls Industries,Wales,735759,12393,4
+244,IBM,Ireland,358597,46775,0
+245,IDEX Corporation,Norway,260633,52141,59
+246,Idexx Laboratories,Netherlands,858079,69139,68
+247,Illinois Tool Works,Monaco,225358,38591,96
+248,Illumina,Andora,151405,39258,3
+249,Incyte,Brazil,913352,1975,74
+250,Ingersoll Rand,Argentina,544247,31680,13
+251,Intel,Singapore,115927,56982,66
+252,Intercontinental Exchange,Hong Kong,675115,89803,112
+253,International Flavors & Fragrances,USA,291916,21630,105
+254,International Paper,UK,723125,6519,92
+255,Interpublic Group,Australia,446389,48549,49
+256,Intuit,France,683763,98320,81
+257,Intuitive Surgical,Spain,225580,92761,8
+258,Invesco,Sweeden,51628,964,100
+259,IPG Photonics,Switzerland,260339,86233,68
+260,IQVIA,New Zealand,982735,44583,110
+261,Iron Mountain,Portugal,309276,63502,55
+262,J. B. Hunt,Greece,681506,90280,118
+263,Jack Henry & Associates,Germany,613658,76174,108
+264,Jacobs Engineering Group,Wales,284491,84350,111
+265,JM Smucker,Ireland,54401,41980,119
+266,Johnson & Johnson,Norway,189051,67831,5
+267,Johnson Controls,Netherlands,605095,18848,14
+268,JPMorgan Chase,Monaco,656280,22414,92
+269,Juniper Networks,Andora,994322,5604,24
+270,Kellogg's,Brazil,40544,83052,104
+271,KeyCorp,Argentina,535304,12217,73
+272,Keysight Technologies,Singapore,856185,83511,104
+273,Kimberly-Clark,Hong Kong,199008,75469,109
+274,Kimco Realty,USA,497200,94014,75
+275,Kinder Morgan,UK,380685,447,104
+276,KLA Corporation,Australia,789868,85652,7
+277,Kraft Heinz,France,854373,35026,0
+278,Kroger,Spain,85801,72641,105
+279,L3Harris Technologies,Sweeden,181185,13719,116
+280,LabCorp,Switzerland,232577,17965,90
+281,Lam Research,New Zealand,155873,46048,15
+282,Lamb Weston,Portugal,343703,31448,49
+283,Las Vegas Sands,Greece,896281,65373,31
+284,Leidos,Germany,482093,17527,120
+285,Lennar,Wales,28214,31456,58
+286,Lincoln National,Ireland,790629,44773,35
+287,Linde,Norway,529273,8884,44
+288,Live Nation Entertainment,Netherlands,156867,59054,61
+289,LKQ Corporation,Monaco,665877,69033,84
+290,Lockheed Martin,Andora,917298,53540,20
+291,Loews Corporation,Brazil,232153,66628,10
+292,Lowe's,Argentina,623199,92153,16
+293,Lumen Technologies,Singapore,93827,19407,68
+294,LyondellBasell,Hong Kong,122564,47520,114
+295,M&T Bank,USA,884917,79938,2
+296,Marathon Oil,UK,363688,82240,96
+297,Marathon Petroleum,Australia,95710,83662,81
+298,MarketAxess,France,83086,78587,116
+299,Marriott International,Spain,849028,16550,30
+300,Marsh & McLennan,Sweeden,472640,19282,89
+301,Martin Marietta Materials,Switzerland,893793,3709,38
+302,Masco,New Zealand,64690,57902,27
+303,Mastercard,Portugal,6254,46926,7
+304,Match Group,Greece,455313,89626,18
+305,McCormick & Company,Germany,303366,17002,59
+306,McDonald's,Wales,996872,67805,88
+307,McKesson Corporation,Ireland,381353,13090,102
+308,Medtronic,Norway,359173,84322,53
+309,Merck & Co.,Netherlands,501598,36519,50
+310,MetLife,Monaco,410186,23714,15
+311,Mettler Toledo,Andora,779053,29862,12
+312,MGM Resorts International,Brazil,910787,54338,82
+313,Microchip Technology,Argentina,611993,89186,78
+314,Micron Technology,Singapore,526081,81702,63
+315,Mid-America Apartments,Hong Kong,244844,92714,118
+316,Moderna,USA,297211,7921,4
+317,Mohawk Industries,UK,506210,58743,85
+318,Molina Healthcare Inc.,Australia,72883,49122,63
+319,Molson Coors Beverage Company,France,772044,51320,33
+320,Mondelez International,Spain,610705,94797,53
+321,Monolithic Power Systems,Sweeden,712905,48217,34
+322,Monster Beverage,Switzerland,392566,74196,36
+323,Moody's Corporation,New Zealand,535265,42248,99
+324,Morgan Stanley,Portugal,234020,14590,39
+325,Motorola Solutions,Greece,376283,71251,7
+326,MSCI,Germany,115270,70611,98
+327,Nasdaq,Wales,620644,1312,4
+328,NetApp,Ireland,841077,69789,9
+329,Netflix,Norway,916019,95874,104
+330,Newell Brands,Netherlands,262875,86094,109
+331,Newmont,Monaco,627265,52342,10
+332,News Corp (Class A),Andora,290059,72759,67
+333,News Corp (Class B),Brazil,427596,90955,92
+334,NextEra Energy,Argentina,691991,6017,52
+335,Nielsen Holdings,Singapore,239141,22218,86
+336,Nike,Hong Kong,422312,60010,86
+337,NiSource,USA,944426,32643,119
+338,Nordson Corporation,UK,625404,88403,105
+339,Norfolk Southern,Australia,561811,34346,95
+340,Northern Trust,France,20761,20116,105
+341,Northrop Grumman,Spain,967624,34124,116
+342,NortonLifeLock,Sweeden,450028,34883,88
+343,Norwegian Cruise Line Holdings,Switzerland,901941,64372,106
+344,NRG Energy,New Zealand,612261,52518,90
+345,Nucor,Portugal,935442,39960,29
+346,Nvidia,Greece,788618,64575,76
+347,NVR,Germany,925205,43545,85
+348,NXP,Wales,224774,80067,66
+349,Occidental Petroleum,Ireland,940223,3988,69
+350,Old Dominion Freight Line,Norway,72917,19874,99
+351,Omnicom Group,Netherlands,513771,69890,61
+352,Oneok,Monaco,584071,15376,90
+353,O'Reilly Automotive,Andora,762617,85205,113
+354,Organon & Co.,Brazil,715266,1160,61
+355,Otis Worldwide,Argentina,128033,83926,62
+356,Paccar,Singapore,954820,80632,114
+357,Packaging Corporation of America,Hong Kong,156877,18762,24
+358,Paramount Global Class B,USA,669627,28880,35
+359,Parker-Hannifin,UK,208302,94134,19
+360,Paychex,Australia,977478,3757,66
+361,Paycom,France,968087,43936,68
+362,PayPal,Spain,934212,53792,37
+363,Penn National Gaming,Sweeden,850910,84944,47
+364,Pentair,Switzerland,168223,63761,92
+365,PepsiCo,New Zealand,953696,61919,32
+366,PerkinElmer,Portugal,144269,43350,64
+367,Pfizer,Greece,333719,66488,31
+368,Philip Morris International,Germany,683607,53081,18
+369,Phillips 66,Wales,322227,23572,8
+370,Pinnacle West Capital,Ireland,935595,12706,49
+371,Pioneer Natural Resources,Norway,272311,78681,0
+372,PNC Financial Services,Netherlands,195738,92756,118
+373,Pool Corporation,Monaco,300445,23050,35
+374,PPG Industries,Andora,476978,43217,12
+375,PPL,Brazil,189790,62772,119
+376,Principal Financial Group,Argentina,404802,35199,86
+377,Procter & Gamble,Singapore,747768,67822,92
+378,Progressive Corporation,Hong Kong,216358,95758,95
+379,Prologis,USA,704286,20474,67
+380,Prudential Financial,UK,107510,54887,40
+381,PTC,Australia,424027,21438,93
+382,Public Service Enterprise Group,France,495927,5658,6
+383,Public Storage,Spain,191441,40202,22
+384,PulteGroup,Sweeden,372101,75793,81
+385,PVH,Switzerland,985115,49000,12
+386,Qorvo,New Zealand,858139,68728,22
+387,Qualcomm,Portugal,943459,8863,71
+388,Quanta Services,Greece,549533,22176,30
+389,Quest Diagnostics,Germany,156864,34777,65
+390,Ralph Lauren Corporation,Wales,236484,11893,81
+391,Raymond James Financial,Ireland,504416,21942,99
+392,Raytheon Technologies,Norway,763441,77166,4
+393,Realty Income Corporation,Netherlands,808096,24213,40
+394,Regency Centers,Monaco,384744,886,59
+395,Regeneron Pharmaceuticals,Andora,73905,23558,67
+396,Regions Financial Corporation,Brazil,184579,72722,73
+397,Republic Services,Argentina,704085,57670,18
+398,ResMed,Singapore,446045,56473,0
+399,Robert Half International,Hong Kong,372802,16183,117
+400,Rockwell Automation,USA,774307,91633,78
+401,Rollins,UK,304710,95366,36
+402,Roper Technologies,Australia,169410,54678,80
+403,Ross Stores,France,522092,10501,91
+404,Royal Caribbean Group,Spain,979382,4542,73
+405,S&P Global,Sweeden,682576,23958,5
+406,Salesforce,Switzerland,31257,47428,89
+407,SBA Communications,New Zealand,797907,89567,61
+408,Schlumberger,Portugal,658707,20467,45
+409,Seagate Technology,Greece,874669,92095,56
+410,Sealed Air,Germany,521581,30174,46
+411,Sempra Energy,Wales,386026,28484,89
+412,ServiceNow,Ireland,933027,72985,91
+413,Sherwin-Williams,Norway,114917,91181,0
+414,Signature Bank,Netherlands,305162,68358,28
+415,Simon Property Group,Monaco,666945,36486,12
+416,Skyworks Solutions,Andora,686770,78987,50
+417,Snap-on,Brazil,264961,4419,96
+418,SolarEdge Technologies Inc.,Argentina,508739,56038,9
+419,Southern Company,Singapore,705984,21704,96
+420,Southwest Airlines,Hong Kong,107650,46665,66
+421,Stanley Black & Decker,USA,199855,40465,75
+422,Starbucks,UK,307081,13872,49
+423,State Street Corporation,Australia,926351,15843,14
+424,Steris,France,982695,64138,101
+425,Stryker Corporation,Spain,217872,39808,21
+426,SVB Financial,Australia,142630,8549,109
+427,Synchrony Financial,Australia,421673,14376,32
+428,Synopsys,France,545904,91288,100
+429,Sysco,UK,216452,4773,53
+430,T. Rowe Price,USA,126542,2239,120
+431,Take-Two Interactive,Australia,53816,61239,4
+432,Tapestry,Australia,930151,3876,88
+433,Target Corporation,France,485277,75979,71
+434,TE Connectivity,UK,813781,95841,67
+435,Teledyne Technologies,USA,908130,34299,105
+436,Teleflex,Australia,380033,63391,34
+437,Teradyne,Australia,972983,2160,43
+438,Tesla,France,623907,62684,57
+439,Texas Instruments,UK,110674,4741,62
+440,Textron,USA,631013,54288,72
+441,The Cooper Companies,Australia,653437,67123,110
+442,The Hartford,USA,93053,24716,47
+443,The Hershey Company,UK,854965,62075,66
+444,The Mosaic Company,Australia,336767,58587,83
+445,The Travelers Companies,France,886186,45985,27
+446,The Walt Disney Company,Australia,595034,52411,77
+447,Thermo Fisher Scientific,Australia,301218,83745,13
+448,TJX Companies,France,991089,65425,82
+449,T-Mobile US,UK,443887,94890,73
+450,Tractor Supply Company,USA,681625,47619,113
+451,Trane Technologies,Australia,995411,88591,68
+452,TransDigm Group,Australia,763657,66443,43
+453,Trimble,Australia,998693,46680,75
+454,Truist Financial,Australia,202953,38521,49
+455,Twitter,France,627352,19333,44
+456,Tyler Technologies,UK,270162,13211,106
+457,Tyson Foods,USA,729339,75933,32
+458,U.S. Bancorp,Australia,790225,58837,86
+459,UDR,Australia,746663,17241,99
+460,Ulta Beauty,France,603839,89968,23
+461,Under Armour (Class A),UK,234119,7127,40
+462,Under Armour (Class C),USA,837659,98868,104
+463,Union Pacific,USA,431725,90979,70
+464,United Airlines,UK,512608,91979,12
+465,United Parcel Service,Australia,921921,27708,113
+466,United Rentals,France,228464,7966,8
+467,UnitedHealth Group,Australia,2719,51516,115
+468,Universal Health Services,Australia,192120,88731,56
+469,Valero Energy,Australia,199348,26981,111
+470,Ventas,Australiad,633942,4266,90
+471,Verisign,France,95757,14463,99
+472,Verisk Analytics,UK,335285,59541,39
+473,Verizon Communications,USA,625234,74369,64
+474,Vertex Pharmaceuticals,Australia,334452,93409,23
+475,VF Corporation,Australia,239545,83373,77
+476,Viatris,Australia,761758,22263,34
+477,Visa,UK,357175,77099,92
+478,Vornado Realty Trust,USA,213482,41553,52
+479,Vulcan Materials,Australia,179201,99948,10
+480,W. R. Berkley Corporation,France,840781,13285,10
+481,W. W. Grainger,UK,96452,59976,59
+482,Wabtec,USA,694335,26925,101
+483,Walgreens Boots Alliance,Australia,286071,15828,17
+484,Walmart,USA,419375,35949,1
+485,Warner Bros. Discovery Inc. Series A,UK,244967,11106,77
+486,Waste Management,Australia,436783,53413,14
+487,Waters Corporation,France,404266,26843,109
+488,WEC Energy Group,USA,451035,91603,56
+489,Wells Fargo,Australia,670524,38682,75
+490,Welltower,Australia,367278,56063,23
+491,West Pharmaceutical Services,France,400733,72350,24
+492,Western Digital,Australia,593293,53629,68
+493,WestRock,Australia,283395,20885,60
+494,Weyerhaeuser,UK,677535,94916,67
+495,Whirlpool Corporation,USA,185924,431,48
+496,Williams Companies,France,532539,99313,57
+497,Willis Towers Watson,Australia,702848,51953,15
+498,Wynn Resorts,USA,706998,79833,52
+499,Xcel Energy,UK,354316,58680,10
+500,Xylem,France,421920,85577,92
+501,Yum! Brands,Australia,850454,57967,67
+502,Zebra Technologies,UK,510271,46143,77
+503,Zimmer Biomet,USA,116571,87984,1
+504,Zions Bancorp,Australia,423684,94065,55
+505,Zoetis,USA,305587,36438,17
